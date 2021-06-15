@@ -1,0 +1,93 @@
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #ecf0f1;
+}
+header {
+	background: url("../images/bg-2.png") no-repeat left bottom/150px, url("../images/bg-1.png") no-repeat center/70px;
+	padding: 35px;
+}
+.navbar-brand img {
+	width: 140px;
+}
+.header-top ul li a {
+	color: gray;
+	font-weight: bold;
+}
+.header-bottom p {
+	font-size: 15px;
+	color: gray;
+}
+.buy-now-button {
+	background: #000;
+	color: white;
+	border: none;
+	font-size: 14px;
+	padding: 12px 40px;
+	border-radius: 8px;
+	margin: 10px 0;
+}
+.header-bottom .buy-now-button i {
+	margin-left: 8px;
+}
+
+.smartphone-sec .top-text a, .laptop-sec a {
+	margin-left: auto;
+	text-decoration: none;
+	color: #1abc9c;
+	font-size: 20px;
+	font-weight: bold;
+}
+.top-text h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.smartphone-sec, .laptop-sec {
+	padding: 50px 0;
+}
+.smartphone-sec .card img, .laptop-sec .card img {
+	width: 100%;
+}
+.smartphone-sec .card h3, .laptop-sec .card h3 {
+	font-size: 20px;
+	font-weight: bold;
+}
+.smartphone-sec .card p, .laptop-sec .card p {
+	font-size: 15px;
+	color: gray;
+}
+.smartphone-sec .card, .laptop-sec .card {
+	border: none;
+	padding: 40px;
+	margin: 40px;
+	box-shadow: 0px 0px 10px;
+	border-radius: 10px;
+}
+
+.categories .orange-border {
+	border-bottom: 4px solid orange;
+	margin: 0 auto;
+}
+.categories .outer-right img {
+	width: 100%;
+}
+.orange-border h2 {
+	font-size: 32px;
+	font-weight: bold;
+} 
+
+.cat-box {
+	background: white;
+	height: 240px;
+	max-width: 210px;
+	border-radius: 17px;
+	margin: 40px 10px;
+}
+.cat-box h4 {
+	font-size: 21px;
+	font-weight: bold;
+}
+.cat-box img {
+	width: 90px;
+}
